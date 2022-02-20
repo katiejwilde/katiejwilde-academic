@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Getting Started
+subtitle: A new site
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: So what started as a lockdown project is now up and running as I learn a bit more about Netlify, Wowchemy (the website builder for Hugo) and others.
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 date: "2020-12-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-02-20T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,18 +30,18 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Personal
 
 categories:
-- Demo
-- 教程
+- Personal
 ---
 
 ## Overview
+
+I've been playing with Wowchemy as a start for 10 for my website...although I admit at the moment I'm still used to updating the code directly rather than use the CMS...but that the next step to have a play about with RMarkDown.  For now I'm going to leave the below in case you wish to do something simlar.
+
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
