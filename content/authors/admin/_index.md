@@ -1,6 +1,6 @@
 ---
 title: Katie Wilde
-role: Digital Research Services Manager
+role: Head of Digital Research
 avatar_filename: kw_oa.jpg
 bio: Data Science
 interests:
@@ -18,10 +18,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/katiejwilde
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/katiejwilde
 organizations:
   - name: University of Aberdeen
     url: https://www.abdn.ac.uk/
@@ -30,7 +30,7 @@ education:
     - course: MMath
       institution: Exeter University
       year: 2006
-email: ""
+email: "katie@katiejwilde.co.uk"
 superuser: true
 highlight_name: false
 ---
