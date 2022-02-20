@@ -23,9 +23,9 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: TREs
+- description: 10o%
+  icon: closed-access
   icon_pack: fas
   name: Photography
 
