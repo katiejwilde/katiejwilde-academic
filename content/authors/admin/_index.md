@@ -3,8 +3,12 @@ role: Head of Digital Research
 avatar_filename: avatar.jpg
 bio: Data Science
 interests:
-  - DataScience
-  - HealthData
+  - Data Science
+  - Health Data
+  - Trusted Research Environments
+  - Fitness
+  - Amatuer Gardener
+  - 
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +30,9 @@ organizations:
     url: https://www.abdn.ac.uk/
 education:
   courses:
+      - course: Masters in Public Health Modules
+      institution: University of Aberdeen
+      year: 2010
     - course: MMath
       institution: Exeter University
       year: 2006
