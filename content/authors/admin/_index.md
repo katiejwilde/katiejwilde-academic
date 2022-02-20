@@ -1,7 +1,6 @@
 ---
-title: Katie Wilde
 role: Head of Digital Research
-avatar_filename: kw_oa.jpg
+avatar_filename: avatar.jpg
 bio: Data Science
 interests:
   - DataScience
@@ -15,7 +14,7 @@ social:
     link: https://twitter.com/katiejwilde
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=0xt53n0AAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/katiejwilde
@@ -30,9 +29,10 @@ education:
     - course: MMath
       institution: Exeter University
       year: 2006
-email: "katie@katiejwilde.co.uk"
 superuser: true
 highlight_name: false
+title: Katie Wilde
+email: mail@katiejwilde.co.uk
 ---
 Update this
 
