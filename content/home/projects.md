@@ -31,11 +31,11 @@ content:
     tag: AI
   - name: Trusted Research Environments
     tag: TRE
-      - name: Fitness
+  - name: Fitness
     tag: Fitness
-      - name: Garden
+  - name: Garden
     tag: Dig
-      - name: Worklife Fit/Balance
+  - name: Worklife Fit
     tag: WLF
   - name: Other
     tag: Other
