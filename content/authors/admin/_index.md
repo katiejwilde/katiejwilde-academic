@@ -30,7 +30,7 @@ organizations:
     url: https://www.abdn.ac.uk/
 education:
   courses:
-      - course: Masters in Public Health Modules
+    - course: Masters in Public Health Modules
       institution: University of Aberdeen
       year: 2010
     - course: MMath
