@@ -8,7 +8,7 @@ interests:
   - Trusted Research Environments
   - Fitness
   - Amatuer Gardener
-  - 
+  - Travels
 social:
   - icon: envelope
     icon_pack: fas
