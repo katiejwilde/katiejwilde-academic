@@ -43,4 +43,4 @@ email: mail@katiejwilde.co.uk
 ---
 Ambitious and experienced manager in a Trusted Research environment, with strong leadership skills and a strong belief that data is our biggest asset.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/KatieWilde_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/assets/media/KatieWilde_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
