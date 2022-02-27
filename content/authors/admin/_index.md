@@ -41,6 +41,6 @@ highlight_name: false
 title: Katie Wilde
 email: mail@katiejwilde.co.uk
 ---
-Update this
+Ambitious and experienced manager in a Trusted Research environment, with strong leadership skills and a strong belief that data is our biggest asset.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/katiewilde_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
