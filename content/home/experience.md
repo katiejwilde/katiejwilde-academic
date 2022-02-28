@@ -28,7 +28,7 @@ experience:
     location: Aberdeen, Scotland
     date_start: '2010-10-01'
     date_end: ''
-    description: |2-
+    description: Manger of three teams responsible for delivering Digital Research requirements in line with the University’s Strategic Plan. Responsible for the delivery of the Trusted Research Environment, Grampian Data Safe Haven (ISO27001 Certified), a virtual environment providing access to Unconsented Data to Researchers and Clinicians Collaborating with NHS and Council colleagues, contributing to advancements in data linkages supporting changes in services|2-
         Responsibilities include:
         
         * Management
@@ -41,5 +41,5 @@ experience:
     location: Aberdeen, Scotland
     date_start: '2007-04-01'
     date_end: '2010-09-30'
-    description: Built Access databases using VBA
+    description: Joining as a Graduate Trainee I was responsible for design and developing Access Research databases using VBA, undertaking complex extractions using SQL Server.
 ---
