@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: TREs
-- description: 10o%
+- description: 100%
   icon: closed-access
   icon_pack: fas
-  name: Photography
+  name: Management
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
