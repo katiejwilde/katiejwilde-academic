@@ -1,6 +1,6 @@
 ---
 title: iCAIRD
-summary: The Indutstrial Centre For Health Data Science
+summary: The Indutstrial Centre For AI in Digital Diagnostics
 tags:
 - AI
 date: "2016-04-27T00:00:00Z"
