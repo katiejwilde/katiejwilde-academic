@@ -9,7 +9,7 @@ authors:
 publication: "*Quasar Research Quality Association Journal*"
 abstract: ""
 draft: false
-featured: true
+featured: false
 tags: []
 categories: []
 projects: []
@@ -20,5 +20,5 @@ image:
 summary: ""
 lastmod: 2022-02-27T20:49:22.000Z
 date: 2013-01-01
-publishDate: 2022-02-27T20:49:22.115863Z
+publishDate: 2022-02-27T20:49:22.115Z
 ---
