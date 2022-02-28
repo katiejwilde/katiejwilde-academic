@@ -2,7 +2,7 @@
 title: Grampian Data Safe Haven (DaSH)
 summary: A Trusted Research Environment
 tags:
-- AI
+- TRE
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
