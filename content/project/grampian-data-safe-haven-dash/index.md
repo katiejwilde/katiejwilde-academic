@@ -1,6 +1,6 @@
 ---
-title: Grampian Data Safe Haven (DaSH)
-summary: A Trusted Research Environment
+title: DaSH
+summary: The Grampian Data Safe Haven - A Trusted Research Environment
 tags:
 - TRE
 date: "2016-04-27T00:00:00Z"
