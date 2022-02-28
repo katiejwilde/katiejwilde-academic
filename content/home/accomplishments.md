@@ -39,5 +39,12 @@ item:
   organization_url: https://www.abdn.ac.uk
   title: Good Research Practice (GRP)
   url: ""
-
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-05-13"
+  description: ""
+  organization: University of Aberdeen
+  organization_url: https://www.abdn.ac.uk
+  title: Research Integrity
+  url: ""
 ---
