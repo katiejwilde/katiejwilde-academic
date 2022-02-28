@@ -1,5 +1,5 @@
 ---
-title: Outreach
+title: iCAIRD Outreach
 
 event: Aberdeen Science Centre University Take Over
 event_url: https://example.org
@@ -12,20 +12,21 @@ address:
   postcode: AB24 5TU
   country: Scotland
 
-summary: An example of outreach
-abstract: More to come
+summary: AI Takeover Exploration 
+abstract: Our Aberdeen Science Centre take over by iCAIRD Researchers 
+Happened back on 18th September in which several of the iCAIRD team headed to the Aberdeen Science Centre logged 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-17T10:00:00Z"
-date_end: "2021-09-17T15:00:00Z"
+#date_end: "2021-09-17T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2022-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Katie Wilde]
+tags: [AI]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -38,8 +39,8 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/katiejwilde
-url_code: ""
+  url: https://twitter.com/icaird
+url_code: https://www.explorathon.co.uk/events-programme/aberdeen-science-centre-takeover-2/ 
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -60,14 +61,3 @@ projects:
 - icaird
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
