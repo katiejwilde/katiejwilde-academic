@@ -2,7 +2,7 @@
 title: iCAIRD Outreach
 
 event: Aberdeen Science Centre University Take Over
-event_url: https://example.org
+event_url: https://www.explorathon.co.uk/events-programme/aberdeen-science-centre-takeover-2/ 
 
 location: Aberdeen Science Centre
 address:
@@ -40,7 +40,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/icaird
-url_code: https://www.explorathon.co.uk/events-programme/aberdeen-science-centre-takeover-2/ 
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
