@@ -15,13 +15,13 @@ authors:
   - Vicky Munro
   - Artur Wozniak
   - " others"
-publication: ""
-abstract: ""
+publication: "Journal of Medical Internet Research"
+abstract: "For over a decade, Scotland has implemented and operationalised a system of Safe Havens providing secure analytics platforms for researchers to access linked, de-identified Electronic Health Records (EHRs) while managing the risk of unauthorised re-identification. In this paper a perspective is provided on the state-of-the-art Scottish Safe Haven Network, including its evolution, to define the key activities required to scale Scottish Safe Haven Network capability to facilitate research and healthcare improvement initiatives.  "
 draft: false
 featured: true
-tags: []
+tags: [TRE]
 categories: []
-projects: []
+projects: [DaSH]
 image:
   caption: ""
   focal_point: ""
