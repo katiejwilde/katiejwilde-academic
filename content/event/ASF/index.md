@@ -13,7 +13,7 @@ address:
   country: Scotland
 
 summary: AI Takeover Exploration 
-abstract: Our Aberdeen Science Centre take over by iCAIRD Researchers happened on 18th September in which several of the iCAIRD team headed to the Aberdeen Science Centre logged 
+abstract: Our Aberdeen Science Centre take over by iCAIRD Researchers happened on 18th September in which several of the iCAIRD team headed to the Aberdeen Science Centre. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
