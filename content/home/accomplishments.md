@@ -31,5 +31,13 @@ item:
   organization_url: https://www.afas.co.uk/
   title: First Aid Training
   url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2021-01-20"
+  description: "Covering the following topics: UK Policy Framework for Health & Social Care Research (with reference to principles of ICH GCP (E6) R2), Principles & Responsibilities, Recent and Pending Changes"
+  organization: NHS Grampian and University of Aberdeen
+  organization_url: https://www.abdn.ac.uk
+  title: Good Research Practice (GRP)
+  url: ""
 
 ---
