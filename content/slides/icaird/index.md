@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-## Funder
+## Bid
 
 Through my work at University of Aberdeen I am part of the Management Team delivering on the iCAIRD project which was announced on the 6th of November 2018 as one of five successful bids to the UK Governments UKRI Industrial Strategy Challenge Fund (ISCF).
  
@@ -23,9 +23,16 @@ Through my work at University of Aberdeen I am part of the Management Team deliv
 
 ## Partners
 
-It brings together a pan-Scotland collaboration of 15 partners from across industry, the NHS, and academia; including four current actively engaged SMEs. Industry leadership is provided by Canon Medical Research Europe (radiology) and Royal Philips (digital pathology). iCAIRD was awarded £10m in ISCF funding by Innovate UK, while partner companies Canon Medical Research Europe Ltd, Royal Philips and SMEs are collectively providing £6M of additional supportive funding.
+It brings together a pan-Scotland collaboration of 15 partners from across industry, the NHS, and academia; including four current actively engaged SMEs. Industry leadership is provided by Canon Medical Research Europe (radiology) and Royal Philips (digital pathology). 
+
+
 ---
 
+## Funders
+
+iCAIRD was awarded £10m in ISCF funding by Innovate UK, while partner companies Canon Medical Research Europe Ltd, Royal Philips and SMEs are collectively providing £6M of additional supportive funding.
+
+---
 
 
 
