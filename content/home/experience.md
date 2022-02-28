@@ -28,12 +28,12 @@ experience:
     location: Aberdeen, Scotland
     date_start: '2010-10-01'
     date_end: ''
-    description: Manger of three teams responsible for delivering Digital Research requirements in line with the University’s Strategic Plan. Responsible for the delivery of the Trusted Research Environment, Grampian Data Safe Haven (ISO27001 Certified), a virtual environment providing access to Unconsented Data to Researchers and Clinicians Collaborating with NHS and Council colleagues, contributing to advancements in data linkages supporting changes in services|2-
+    description: |2-
         Responsibilities include:
         
-        * Management
-        * Trusted Research Environments
-        * AI
+        * Manger of three teams responsible for delivering Digital Research requirements in line with the University’s Strategic Plan.  
+        * Responsible for the delivery of the Trusted Research Environment, Grampian Data Safe Haven (ISO27001 Certified), a virtual environment providing access to Unconsented Data to Researchers and Clinicians
+        * Collaborating with NHS and Council colleagues, contributing to advancements in data linkages supporting changes in services
         
   - title: Graduate Trainee - Analyst & Programmer
     company: University of Aberdeen
